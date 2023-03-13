@@ -23,7 +23,7 @@ body {
 }
 
 #main-logo {
-    width: 500px;
+    width: 100%;
     align-items: center;
     justify-content: center;
     margin: auto;
