@@ -142,6 +142,9 @@ body {
     .header-right {
     float: none;
     }
+    .header .logo{
+    margin-right: 5px;
+    }
 }
 
 /* main article */
