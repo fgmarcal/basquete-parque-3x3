@@ -15,7 +15,7 @@ body {
 
 .img-container a {
     display: flex;
-    width: 500px;
+    width: 25%;
     margin: auto;
     justify-content: center;
     align-items: center;
