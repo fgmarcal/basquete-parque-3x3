@@ -122,7 +122,7 @@ body {
 .header .logo {
     width: fit-content;
     border-radius: 40%;
-    margin-right: 500px;
+    margin-right: 25%;
     border-color: #00357b;
     box-shadow: #EF5B0C 2px 2px 2px 2px;
 }
