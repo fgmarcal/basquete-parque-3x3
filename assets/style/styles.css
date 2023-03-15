@@ -72,17 +72,17 @@ body {
     width: 1.2rem;
 }
   
-  #git-img:hover {
+#git-img:hover {
     content: url(https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-512.png);
     cursor: help;
 }
   
-  #cpen-img:hover {
+#cpen-img:hover {
     content: url(https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Codepen-512.png);
     cursor: help;
 }
   
-  #lkdin-img:hover {
+#lkdin-img:hover {
     content: url(https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png);
     cursor: help;
 }
@@ -248,7 +248,8 @@ body {
     font-size: 20px;
     text-align: center;
     align-items: center;
-    display:inline-block;
+    display:block;
+    top: 4rem;
     margin: 40px 0 50px;
     color: #FDF0E0;
 }
@@ -256,6 +257,7 @@ body {
 #contacts img{
     width: 40px;
     border-radius: 15px;
+    display: inline-block;
 }
 
 #contacts .social{
@@ -264,11 +266,13 @@ body {
     align-items: center;
     width: 300px;
     margin: auto;
+    padding: 15px 0;
 }
 
 #contacts a{
     color:antiquewhite;
     text-decoration: none;
+    display: inline-block;
 }
 
 #contacts a:hover{
